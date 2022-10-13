@@ -28,4 +28,4 @@ def teste_dividir_negativo():
 
     assert resultado_obtido == resultado_esperado
 
-    #Eu vi
+
