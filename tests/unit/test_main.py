@@ -27,3 +27,5 @@ def teste_dividir_negativo():
     resultado_obtido = dividir(numero_a, numero_b)
 
     assert resultado_obtido == resultado_esperado
+
+    #Eu vi
